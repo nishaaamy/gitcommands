@@ -1,2 +1,4 @@
 git init
 -instalizing git
+git add -A
+git commit
